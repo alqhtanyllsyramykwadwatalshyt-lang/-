@@ -1,0 +1,8 @@
+{
+  "name": "مصنع جيزان للصناعات البلاستيكية",
+  "description": "حلول متكاملة وموثوقة من المواسير والتوصيلات البلاستيكية عالية الجودة لشبكات المياه والري والإنشاءات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
